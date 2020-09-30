@@ -1,8 +1,0 @@
-ros-foxy-menge (1.1.0-1focal) focal; urgency=high
-
-  * menge core packaged for colcon build
-  * Contributors: Shao Guoliang, flooshao
-
- -- Shao Guoliang <fredshao@openrobotics.org>  Wed, 30 Sep 2020 00:00:00 -0000
-
-
