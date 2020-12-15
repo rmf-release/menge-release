@@ -1,3 +1,26 @@
+## menge (rolling) - 1.9999.0-1
+
+The packages in the `menge` repository were released into the `rolling` distro by running `/usr/local/bin/bloom-release --rosdistro rolling --track rolling menge` on `Tue, 15 Dec 2020 03:45:10 -0000`
+
+The `menge` package was released.
+
+Version of package(s) in repository `menge`:
+
+- upstream repository: https://github.com/osrf/menge_core.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `null`
+- new version: `1.9999.0-1`
+
+Versions of tools used:
+
+- bloom version: `0.10.0`
+- catkin_pkg version: `0.4.23`
+- rosdep version: `0.19.0`
+- rosdistro version: `0.8.3`
+- vcstools version: `0.1.42`
+
+
 ## menge (foxy) - 1.1.0-2
 
 The packages in the `menge` repository were released into the `foxy` distro by running `/usr/bin/bloom-release menge --rosdistro foxy` on `Wed, 30 Sep 2020 18:29:26 -0000`
