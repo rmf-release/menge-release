@@ -67,18 +67,18 @@ ament_export_include_directories(include)
 
 ament_export_targets(menge HAS_LIBRARY_TARGET)
 
-INSTALL(
-  TARGETS menge
+install(TARGETS menge
   EXPORT menge
   DESTINATION lib
 )
 
-INSTALL(
+install(
   DIRECTORY
     ${MENGE_SRC_DIR}/MengeCore
     ${MENGE_SRC_DIR}/../include/
   DESTINATION include
   FILES_MATCHING PATTERN *.h
 )
+
 
 ament_package()
